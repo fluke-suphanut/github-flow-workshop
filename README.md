@@ -1,5 +1,7 @@
 # github-flow-workshop
 
+![Banner: a pin board of blank cards with one empty slot, as a red card slides toward it](docs/banner.png)
+
 A fork of a "Profile workshop for GitHubFlow" repository, where each attendee adds one HTML profile page through a pull request.
 
 Portfolio: https://suphanut.pages.dev
